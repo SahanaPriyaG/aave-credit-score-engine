@@ -12,7 +12,7 @@ This report captures the score distribution and wallet behavior learnings based 
 
 ### Histogram
 
-![credit-score-distribution](/content/download (3).png)
+![credit-score-distribution](score_distribution.png)
 
 ---
 
