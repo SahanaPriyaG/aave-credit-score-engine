@@ -16,7 +16,7 @@ To develop a solid and open ML-based scoring pipeline to:
 
 ## Approach
 
-### ✅ Features Engineered per Wallet:
+### Features Engineered per Wallet:
 - **Counts** of primary actions: `deposit`, `borrow`, `repay`, `redeemunderlying`, `liquidationcall`
 - `total_txns`: Total transactions
 - `unique_assets`: Assets interacted with uniquely
