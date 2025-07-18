@@ -35,7 +35,7 @@ To develop a solid and open ML-based scoring pipeline to:
 ---
 
 ## 📂 Output
-![Score Distribution](Wallet_score.csv)
+![Score Distribution](wallet_scores.csv)
 
 ---
 
