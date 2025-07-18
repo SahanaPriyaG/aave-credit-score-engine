@@ -55,10 +55,5 @@ To develop a solid and open ML-based scoring pipeline to:
 
 ---
 
-## Notes
 
-- There is no usage of personal or KYC information—this is solely on-chain conduct scoring.
-- This approach is transparent, extensible, and explainable.
-
----
 
