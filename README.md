@@ -34,6 +34,11 @@ To develop a solid and open ML-based scoring pipeline to:
 
 ---
 
+## 📂 Output
+![Score Distribution](Wallet_score.csv)
+
+---
+
 ##  Visuals
 
 - Credit score distribution histogram
