@@ -1,4 +1,4 @@
-# aave-credit-score-engine
+# Aave-credit-score-engine
 
 This project provides a **credit score (0–1000)** for every wallet address that is interacting with the [Aave V2 protocol](https://aave.com) based on past transaction behavior. It applies DeFi level of transaction data (deposit, borrow, repay, etc.) to measure wallet responsibility and trust.
 
