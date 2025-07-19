@@ -43,7 +43,7 @@ They exhibited:
 
 ---
 
-## ???? Top 10 Wallets (Trustworthy)
+## Top 10 Wallets (Trustworthy)
 
 These wallets possessed:
 - Strong repayment consistency
